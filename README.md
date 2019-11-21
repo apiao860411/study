@@ -1,3 +1,6 @@
 # study
+add a function
 
-添加一个功能
+添加功能
+
+
