@@ -5,4 +5,6 @@ add a function
 
 测试 pull
 
+这是A分支添加的东西
+
 
